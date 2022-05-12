@@ -1,0 +1,17 @@
+
+
+body{
+    display: grid;
+    place-items: center;
+}
+
+.img
+{
+    height: 200px;
+    width: 200px;
+}
+
+.one
+{
+    transform: rotate(45deg);
+}
